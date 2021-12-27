@@ -1,0 +1,16 @@
+$poppins: Poppins,sans-serif;
+$rose: #ff519b;
+$blue: #b6bef2;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+p, span {
+    font-family: $poppins;
+    font-weight: 600;
+    
+}
